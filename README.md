@@ -32,11 +32,12 @@ Logged into osTicket as an agent to check ticket orders.
 </p>
 <br />
 
+![image](https://github.com/cedhorton/ticket-lifecycle/assets/173581553/8f51c3c9-6e81-43b0-b393-476304044564)
+
+![image](https://github.com/cedhorton/ticket-lifecycle/assets/173581553/b7c31893-1dd6-4460-bf1c-477e357831d4)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Assigned a ticket order to work, communicated with user to acknowledge ticket order was recieved and am working on the issue at hand.
 </p>
 <br />
 
