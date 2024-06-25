@@ -25,10 +25,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-![image](https://github.com/cedhorton/ticket-lifecycle/assets/173581553/95ebd350-535d-4d54-8693-73431938fecf)
+![image](https://github.com/cedhorton/ticket-lifecycle/assets/173581553/82bb8024-edb9-4b9f-a13a-d77345b3078c)
 
 <p>
-Logged into osTicket as an agent to check ticket orders and recieved a ticket.
+Logged into osTicket as an agent to check ticket orders.
 </p>
 <br />
 
