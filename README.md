@@ -47,3 +47,14 @@ Assigned a ticket order to work, communicated with user to acknowledge ticket or
 Worked ticket issue, communicated with user what the cause of the issue was and that it is now resolved.
 </p>
 <br />
+
+![image](https://github.com/cedhorton/ticket-lifecycle/assets/173581553/0f101178-4477-4369-842c-2b316c563cbf)
+
+![image](https://github.com/cedhorton/ticket-lifecycle/assets/173581553/6a6e2f3c-5e7a-4350-9551-575316c6b4a1)
+
+
+<p>
+Updated ticket status to "Resolved", ticket is now closed. Time to move on to next ticket order.
+</p>
+<br />
+
